@@ -38,7 +38,7 @@ b.3.7: Made graphics more distinguishable from text
 
 # Roadmap
 
-## Radar toggle!
+## Radar toggle! {b.4?}
 Allows the player to see where the cheese are in the entire map
 
 ## Map power!
